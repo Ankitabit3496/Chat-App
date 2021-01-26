@@ -1,5 +1,5 @@
 # Chat-App
-A real time web application built with Socket.io and Node.js where users can chat with other users in the room and can share their geographical location if permission is granted. Implemented  the special feature of automatic scrolling upon receiving a new message.
+A real time web application built with Socket.io and Node.js where users can chat with the other users in the room and can share their geographical location if permission is granted. Implemented  the special feature of automatic scrolling upon receiving a new message.
 
 ## [Demo](https://ankita-chatapp.herokuapp.com/)
 
