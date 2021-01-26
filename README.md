@@ -17,3 +17,6 @@ A real time web application built with Socket.io and Node.js where users can cha
  <p align="center">
  <img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_2.png" width="500" height="300" style="float:center">
  </p>
+ 
+ ## Author
+   [ANKITA](https://github.com/Ankitabit3496)
