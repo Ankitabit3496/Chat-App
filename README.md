@@ -6,10 +6,10 @@ Developed a real time web application with Socket.io and Node.js where users can
 ## Features
 - The users must join a room to chat with a specific username.
 
- <img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_1.png" width="50" height="45">
+ <img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_1.png" width="300" height="300">
  
 - Users can chat with other users of the same room.
 - Users can share their geographical location with the others if permission is granted.
 - When a new message is received, the page automatically scrolls down.
 
-![Screenshot-2](https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_2.png)
+<img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_2.png" width="400" height="400">
