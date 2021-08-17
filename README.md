@@ -7,7 +7,9 @@ A dockerized real time web application built with Socket.io and Node.js where us
 - The users must join a room to chat with a specific username.
 
  <p align="center">
+ <kbd>
  <img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_1.png" width="400" height="200" style="float:center">
+ </kbd>
  </p>
  
 - Users can chat with other users of the same room.
@@ -15,7 +17,9 @@ A dockerized real time web application built with Socket.io and Node.js where us
 - When a new message is received, the page automatically scrolls down.
 
  <p align="center">
+ <kbd>
  <img src="https://github.com/Ankitabit3496/Chat-App/blob/main/Images/Image_2.png" width="400" height="200" style="float:center">
+ </kbd>
  </p>
  
  ## Running It Locally
