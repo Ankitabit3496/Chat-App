@@ -19,6 +19,7 @@ A dockerized real time web application built with Socket.io and Node.js where us
  </p>
  
  ## Running It Locally
+ *You can directly do `npm install` and run `node src/index.js` but if you don't have npm/node installed, use docker to avoid hassle.*
  - Make sure you have docker installed.
  - `STEPS`: Use following commands sequentially in the terminal
   1. `docker build .` for building the image.
