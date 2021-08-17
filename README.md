@@ -19,8 +19,8 @@ A dockerized real time web application built with Socket.io and Node.js where us
  </p>
  
  ## Running It Locally
- - Make sure you have docker installed
-  `STEPS`: Use following commands sequentially in the terminal
+ - Make sure you have docker installed.
+ -`STEPS`: Use following commands sequentially in the terminal
   1. `docker build .` for building the image.
   2. `docker run -p {LOCALPORTNAME}:{ACTUALPORT} {image}` after obtaining image id from the above command.
   
